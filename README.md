@@ -5,6 +5,7 @@
 - Werken met feature branches
 - Hallo ik ben ko
 - Comitten
+- mijn moeder is offensive
 - Een merge request indienen
 - *Optioneel* Git bisect
 - Git rollback
