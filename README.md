@@ -5,6 +5,7 @@
 - Werken met feature branches
 - Dit regeltje weghalen en vervangen met een leuk verhaal
 - Comitten
+- mijn moeder is offensive
 - Een merge request indienen
 - *Optioneel* Git bisect
 - Git rollback
