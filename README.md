@@ -3,7 +3,6 @@
 
 - Deze repo clonen
 - Werken met feature branches
-- Dit regeltje weghalen en vervangen met een leuk verhaal
 - Comitten
 - Een merge request indienen
 - *Optioneel* Git bisect
